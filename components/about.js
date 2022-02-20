@@ -13,7 +13,7 @@ function About() {
                 “Ut enim ad minim veniam, quis nostrud exercitation ullamco
                 laboris nisi ut aliquip ex ea commodo consequat”
             </p>
-            <div className="border mx-6 my-10 shadow-lg pt-6 md:pt-2">
+            <div className="border mx-6 mt-10 shadow-lg pt-6 md:pt-2">
                 <div className="grid grid-cols-1 md:grid-cols-2 justify-items-center items-center">
                     <div className="flex-col text-center items-center mx-6 pt-2 px-4 md:pt-4 lg:pt-0">
                         {/* Content */}
@@ -33,7 +33,7 @@ function About() {
                                 scratch.
                             </span>
                             <span className="block pt-4">
-                                scratch. Follow this link to know more!
+                                Follow this <a href="https://github.com/builtree/builtree/blob/main/PROJECTS.md" className="text-orange-400">link</a> to know more!
                             </span>
                         </p>
                     </div>
