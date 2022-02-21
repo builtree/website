@@ -26,10 +26,10 @@ function Landing() {
                         Helping Convert Ideas to Real World Projects
                     </p>
                     <div className="flex justify-center lg:justify-start">
-                        <button className="bg-[#FFA62B] text-white font-semibold py-2 px-4 my-4 shadow-[#FFA62B] shadow-sm w-28">
+                        <button className="bg-[#FFA62B] text-white font-semibold py-2 px-4 my-4 shadow-[#FFA62B] shadow-sm w-28" onClick={()=>window.open("https://discord.gg/9BtRZhJb9G", "_blank")}>
                             Join
                         </button>
-                        <button className="bg-white hover:bg-[#0B4870] text-[#0B4870] hover:text-white font-semibold py-2 px-4 my-4 ml-6 w-28 border border-[#0B4870]">
+                        <button className="bg-white hover:bg-[#0B4870] text-[#0B4870] hover:text-white font-semibold py-2 px-4 my-4 ml-6 w-28 border border-[#0B4870]" onClick={()=>window.open("mailto:contact@builtree.org", "_blank")}>
                             Contact
                         </button>
                     </div>

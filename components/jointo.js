@@ -52,7 +52,7 @@ function JoinTo() {
                         Turn Ideas Into Products
                     </h3>
                     <p className="text-slate-500 text-sm px-3">
-                        Got an idea in your mind and don't know where to get started? Propose your idea and make it real.
+                        {`Got an idea in your mind and don't know where to get started? Propose your idea and make it real.`}
                     </p>
                 </div>
             </div>

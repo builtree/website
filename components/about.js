@@ -10,7 +10,7 @@ function About() {
                 ABOUT
             </h2>
             <p className="text-center text-slate-500 italic pt-8 mx-4 md:mx-auto md:w-1/2">
-                "Programming isn't about what you know; it's about what you can figure out.” - Chris Pine 
+                {`"Programming isn't about what you know; it's about what you can figure out.” - Chris Pine`}
             </p>
             <div className="border mx-6 mt-10 shadow-lg pt-6 md:pt-2">
                 <div className="grid grid-cols-1 md:grid-cols-2 justify-items-center items-center">
@@ -32,7 +32,7 @@ function About() {
                                 scratch.
                             </span>
                             <span className="block pt-4">
-                                Follow this <a href="https://github.com/builtree/builtree/blob/main/PROJECTS.md" className="text-orange-400">link</a> to know more!
+                                Follow this <a href="https://github.com/builtree/builtree/blob/main/PROJECTS.md" target="_blank"  rel="noreferrer" className="text-orange-400">link</a> to know more!
                             </span>
                         </p>
                     </div>

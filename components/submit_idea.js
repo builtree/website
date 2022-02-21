@@ -16,7 +16,7 @@ function SubmitIdea() {
                         a headstart.
                     </p>
                     <div className="flex justify-center lg:justify-start">
-                        <button className="bg-[#FFA62B] text-white font-semibold py-2 px-4 my-4 shadow-[#FFA62B] shadow-sm w-38">
+                        <button className="bg-[#FFA62B] text-white font-semibold py-2 px-4 my-4 shadow-[#FFA62B] shadow-sm w-38" onClick={()=>window.open("https://github.com/builtree/builtree/tree/main/proposals", "_blank")}>
                             Submit an Idea
                         </button>
                     </div>
