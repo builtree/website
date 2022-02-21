@@ -3,9 +3,9 @@ import React from "react";
 
 function Projects() {
     return (
-        <div className=" max-w-7xl mx-auto">
-            <h2 className="text-xl font-bold text-[#0B4870] underline underline-offset-8 decoration-[#FFA62B] text-center py-12">
-                Projects
+        <div className=" max-w-7xl mx-auto py-4">
+            <h2 className="text-xl font-bold text-[#0B4870] underline underline-offset-8 decoration-[#FFA62B] text-center py-8">
+                PROJECTS
             </h2>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-10 mx-10 items-center justify-center justify-items-center py-8">
                 <div className="relative max-w-2xl">
@@ -19,7 +19,7 @@ function Projects() {
                     </p>
                 </div>
             </div>
-            <div className="flex mx-10 items-center justify-center py-8">
+            <div className="flex mx-10 items-center justify-center py-16">
                 <p className="text-[#0B4870] text-center">
                     <span className="text-4xl font-bold">We <span className="text-red-500">❤️</span> Open Source!</span>
                     <span className="block pt-4 text-2xl font-semibold">and strive to keep most of projects open to everyone.</span>

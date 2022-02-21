@@ -21,7 +21,7 @@ function JoinTo() {
                     <h3 className="text-base p-2 font-bold text-[#0B4870] text-center">
                         Acquire New Skills
                     </h3>
-                    <p className="text-slate-500 text-sm px-3">
+                    <p className="text-slate-500 text-sm px-3 pb-2">
                         Get guidance from experienced mentors and Upskill while working on amazing projects or building your own!
                     </p>
                 </div>
@@ -36,7 +36,7 @@ function JoinTo() {
                     <h3 className="text-base p-2 font-bold text-[#0B4870] text-center">
                         Collaborate and Build
                     </h3>
-                    <p className="text-slate-500 text-sm px-3">
+                    <p className="text-slate-500 text-sm px-3 pb-2">
                         Be a part of an active community, share ideas, meet people and build something great together.
                     </p>
                 </div>
@@ -51,7 +51,7 @@ function JoinTo() {
                     <h3 className="text-base p-2 font-bold text-[#0B4870] text-center">
                         Turn Ideas Into Products
                     </h3>
-                    <p className="text-slate-500 text-sm px-3">
+                    <p className="text-slate-500 text-sm px-3 pb-2">
                         {`Got an idea in your mind and don't know where to get started? Propose your idea and make it real.`}
                     </p>
                 </div>

@@ -4,7 +4,7 @@ import Background from "./background";
 
 function SubmitIdea() {
     return (
-        <div className="bg-[#DDEEFD] mt-4">
+        <div className="bg-[#DDEEFD] mt-16">
             <div className="flex justify-center lg:max-h-64 lg:justify-between max-w-7xl items-center mx-auto">
                 <div className="flex-col text-center lg:text-left items-center px-4 py-8 lg:px-8">
                     {/* Content */}
