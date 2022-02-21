@@ -33,6 +33,6 @@ jobs:
                 external_repository: builtree/builtree.github.io
                 publish_branch: main
                 publish_dir: ./out
-                cname: builtree.org
+                cname: www.builtree.org
                 commit_message: ${{ github.event.head_commit.message }}
                 keep_files: true
