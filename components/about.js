@@ -10,8 +10,7 @@ function About() {
                 ABOUT
             </h2>
             <p className="text-center text-slate-500 italic pt-8 mx-4 md:mx-auto md:w-1/2">
-                “Ut enim ad minim veniam, quis nostrud exercitation ullamco
-                laboris nisi ut aliquip ex ea commodo consequat”
+                "Programming isn't about what you know; it's about what you can figure out.” - Chris Pine 
             </p>
             <div className="border mx-6 mt-10 shadow-lg pt-6 md:pt-2">
                 <div className="grid grid-cols-1 md:grid-cols-2 justify-items-center items-center">

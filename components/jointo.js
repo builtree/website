@@ -22,8 +22,7 @@ function JoinTo() {
                         Acquire New Skills
                     </h3>
                     <p className="text-slate-500 text-sm px-3">
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-                        sed do eiusmod tempor incididunt.
+                        Get guidance from experienced mentors and Upskill while working on amazing projects or building your own!
                     </p>
                 </div>
                 <div className="flex flex-col border shadow-lg text-center w-56 h-72 items-center">
@@ -38,8 +37,7 @@ function JoinTo() {
                         Collaborate and Build
                     </h3>
                     <p className="text-slate-500 text-sm px-3">
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-                        sed do eiusmod tempor incididunt.
+                        Be a part of an active community, share ideas, meet people and build something great together.
                     </p>
                 </div>
                 <div className="flex flex-col border shadow-lg text-center w-56 h-72 items-center">
@@ -54,8 +52,7 @@ function JoinTo() {
                         Turn Ideas Into Products
                     </h3>
                     <p className="text-slate-500 text-sm px-3">
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-                        sed do eiusmod tempor incididunt.
+                        Got an idea in your mind and don't know where to get started? Propose your idea and make it real.
                     </p>
                 </div>
             </div>
